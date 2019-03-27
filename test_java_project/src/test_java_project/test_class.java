@@ -4,6 +4,8 @@ public class test_class {
 	
 	public static void main(String[] args) {
 		System.out.println("hello world~! hotfix!");
+		System.out.println("I'm the hotfix!");
+
 	}
 
 }
